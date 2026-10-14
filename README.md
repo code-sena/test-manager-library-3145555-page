@@ -1,5 +1,11 @@
 # test-manager-library-3145555-page
 
+## Sitio público
+
+Sitio estático sin dependencias de la API. Abra `index.html` directamente en el navegador o
+sirva este directorio con cualquier servidor estático. El diseño incluye vistas adaptables a
+móvil y escritorio; no requiere instalación, build ni datos de la biblioteca.
+
 > **Prueba técnica · Ficha ADSO 3145555**
 > Horario: **miércoles 14 de octubre de 2026, de 6:50 a. m. a 11:00 a. m.** (hora Colombia). Entrega a las **11:00 a. m.**
 
